@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#modby thian
 Prnt(){ printf $1; };
 Slp(){ sleep $1; };
 Replace(){ sed "s/$1/$2/g"; };
